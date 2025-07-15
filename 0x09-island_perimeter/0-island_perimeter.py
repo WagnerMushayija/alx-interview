@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 A module that contains a function that returns the perimeter of an island
-described in grid    
+described in grid 
 """
 
 
